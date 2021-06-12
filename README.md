@@ -25,3 +25,9 @@ Week 3
 * 1812 Determine Color of a Chessboard Square
 * 1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 
+Week 4
+* 343 Integer Break
+* 654 Maximum Binary Tree 
+* 1315 Sum of Nodes with Even-Valued Grandparent
+* 200 Number of Islands
+
